@@ -9,7 +9,7 @@ https://docs.flutter.dev/get-started/install
 
 #### Note
 
-Errors will pop up, even when you are following all the instructions. Don't panic. Just copy the error message onto google, and eventually the issues will go away.
+Errors will pop up, even when you are following all the instructions. Don't panic. Just copy the error message onto google, and eventually the issues will go away. Follow stackoverflow
 
 If you run flutter doctor in your command line and you see that everything is checked, you are good to go.
 
